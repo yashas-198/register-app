@@ -1,2 +1,0 @@
-register-app
-Test93
